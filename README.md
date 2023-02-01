@@ -1,4 +1,9 @@
-# Year-11-CS-Unit-6-Classes-Tutorial-BookHasAAuthor
+
+
+
+## Name: Albert
+## Partner: Ian Lam
+## Year-11-CS-Unit-6-Classes-Tutorial-BookHasAAuthor
 
 Tutorial - A Book “has-a” Author
 
